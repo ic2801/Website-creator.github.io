@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "QR CODE.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -679,56 +679,6 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
-        },
-        {
-          "_params": {
-            "blockTitle": "",
-            "HTMLCode": "<HTML>\n<HEAD>\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n    google_ad_client: \"ca-pub-5136293330776434\",\n    enable_page_level_ads: true\n  });\n</script>\n</HEAD>\n</HTML>",
-            "extEdit": true,
-            "paddingTop": 20,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "blockTitle": "",
-          "HTMLCode": "<HTML>\n<HEAD>\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n    google_ad_client: \"ca-pub-5136293330776434\",\n    enable_page_level_ads: true\n  });\n</script>\n</HEAD>\n</HTML>",
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-c"
-        },
-        {
-          "_params": {
-            "blockTitle": "<h3></h3>",
-            "HTMLCode": "<HTML>\n<HEAD><script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n    google_ad_client: \"ca-pub-5136293330776434\",\n    enable_page_level_ads: true\n  });\n</script>\n</HEAD>\n</HTML>\n",
-            "extEdit": true,
-            "paddingTop": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "blockTitle": "<h3></h3>",
-          "HTMLCode": "<HTML>\n<HEAD><script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n    google_ad_client: \"ca-pub-5136293330776434\",\n    enable_page_level_ads: true\n  });\n</script>\n</HEAD>\n</HTML>\n",
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-a"
         }
       ]
     },
